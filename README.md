@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sara2770
+- 👀 I’m a Civil Engineer currently working on my Master's Thesis
+- 🌱 I’m currently learning Python and GIS
+- 📫 How to reach me sarah27akram@gmail.com
